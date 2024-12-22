@@ -1,0 +1,167 @@
+.meena{
+    font-size: 25px;
+    color: aqua;
+    margin-left: 30px;
+}
+
+.ul1{
+    list-style-type: none;
+    display: flex;
+    margin-right: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+.list1{
+    margin: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+.navbar{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid yellow;
+}
+
+.list1:hover{
+    color: lightgreen;
+}
+
+
+.meena:hover{
+    color: yellow;
+}
+
+.ul1:hover{
+    color: black;
+}
+
+.backimg2{
+    background-image: url("https://www.seekpng.com/png/full/950-9504143_trash-pile-png.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 1255px;
+    border: none;
+    border-bottom-left-radius: 200px;
+}
+
+.headp{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.pimg1{
+    height: 500px;
+    width: 515px;
+}
+
+.pimg2{
+    height: 300px;
+    width: 166px;
+    margin: 5px;
+}
+
+.garbage{
+    font-size: 40px;
+}
+
+.pspan1{
+    color: green;
+}
+
+.parahead1{
+    font-size: 35px;
+}
+
+.ppara1{
+    font-size: 20px;
+}
+
+.pspan2{
+    color: green;
+}
+
+.parahead2{
+    font-size: 35px;
+}
+
+.ppara2{
+    font-size: 20px;
+}
+
+.contactnow{
+    height: 40px;
+    width: 170px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.contactnow:hover{
+    background-color: orange;
+    color: black;
+}
+
+.pflex1{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.pflex2{
+    margin-right: 30px;
+    margin-left: 200px;
+}
+
+.pflex12{
+    display: flex;
+    margin-top: 130px;
+}
+
+
+.footer{
+    background-color: black;
+    margin-top: 100px;
+}
+
+.footerdiv{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Logo{
+    margin-left: 30px;
+}
+
+.contact{
+    margin-right: 30px;
+}
+
+.footerbar{
+    background-color: rgb(15, 14, 14);
+    display: flex;
+    justify-content: space-between;
+}
+
+.ftext{
+    margin-left: 30px;
+    color: white;
+}
+
+.by{
+    margin-right: 30px;
+    color: white;
+}
+
+.span0{
+    color: aqua;
+}

@@ -1,0 +1,225 @@
+.meena{
+    font-size: 25px;
+    color: aqua;
+    margin-left: 30px;
+}
+
+.ul1{
+    list-style-type: none;
+    display: flex;
+    margin-right: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+.list1{
+    margin: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+.navbar{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid yellow;
+}
+
+.list1:hover{
+    color: lightgreen;
+}
+
+
+.meena:hover{
+    color: yellow;
+}
+
+.ul1:hover{
+    color: black;
+}
+
+.backimg3{
+    background-image: url("https://removal.ai/wp-content/uploads/2021/09/black-background-04-coolbackgrounds.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 1255px;
+    border: none;
+    border-bottom-left-radius: 200px;
+}
+
+.chead{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.chead1{
+    font-size: 40px;
+}
+
+.cspan1{
+    font-size: 30px;
+    color: green;
+}
+
+.inputs{
+    height: 40px;
+    width: 450px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    background-color: rgb(236, 232, 232);
+    border: 1px solid rgb(202, 200, 200);
+    border-radius: 10px;
+}
+
+.inputsbig{
+    margin-bottom: 20px;
+    font-size: 15px;
+    background-color: rgb(236, 232, 232);
+    border: 1px solid rgb(202, 200, 200);
+    border-radius: 10px;
+    width: 450px;
+    height: 130px;
+}
+
+.csubmit{
+    height: 40px;
+    width: 135px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-left: 318px;
+}
+
+.csubmit:hover{
+    background-color: orange;
+    color: black;
+}
+
+.cdiv1{
+    margin-left: 30px;
+}
+
+.cdiv2{
+    margin-right: 30px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.cdiv12{
+    display: flex;
+    margin-top: 100px;
+}
+
+.cbox1{
+    height: 280px;
+    width: 280px;
+    border: 1px solid black;
+    margin-left: 40px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.cbox2{
+    height: 280px;
+    width: 280px;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.cbox3{
+    height: 280px;
+    width: 280px;
+    border: 1px solid black;
+    margin-right:40px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.cdiv3{
+    display: flex;
+    margin: 50px;
+    justify-content: space-between;
+    
+}
+
+.cimage{
+    height: 90px;
+    width: 90px;
+    
+}
+
+.timgc{
+    font-size: 30px;
+}
+
+.gclass{
+    color: rgb(35, 34, 34);
+}
+
+.cdiv3{
+    margin-top: 150px;
+}
+
+.cbox1:hover{
+    background-color: lightgreen;
+}
+
+.cbox2:hover{
+    background-color: lightgreen;
+    
+}
+
+.cbox3:hover{
+    background-color: lightgreen;
+
+}
+
+
+.footer{
+    background-color: black;
+    margin-top: 100px;
+}
+
+.footerdiv{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Logo{
+    margin-left: 30px;
+}
+
+.contact{
+    margin-right: 30px;
+}
+
+.footerbar{
+    background-color: rgb(15, 14, 14);
+    display: flex;
+    justify-content: space-between;
+}
+
+.ftext{
+    margin-left: 30px;
+    color: white;
+}
+
+.by{
+    margin-right: 30px;
+    color: white;
+}
+
+.spanc{
+    color: aqua;
+}

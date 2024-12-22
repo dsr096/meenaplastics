@@ -1,0 +1,170 @@
+.meena{
+    font-size: 25px;
+    color: aqua;
+    margin-left: 30px;
+}
+
+.ul1{
+    list-style-type: none;
+    display: flex;
+    margin-right: 30px;
+}
+
+.list1{
+    margin: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.navbar{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid yellow;
+}
+
+.list1:hover{
+    color: lightgreen;
+}
+
+
+.meena:hover{
+    color: yellow;
+}
+
+.ul1:hover{
+    color: black;
+}
+
+.backimg{
+    background-image: url("https://img2.goodfon.com/wallpaper/nbig/3/ae/pollution-trash-bags-waste.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 1255px;
+    border: none;
+    border-bottom-left-radius: 200px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.aboutus{
+    font-size: 120px;
+    color: white;
+    text-align: center;
+    margin-top: 140px;
+}
+
+.who{
+    font-size: 40px;
+}
+
+.span1{
+    color: green;
+}
+
+.para1{
+    font-size: 20px;
+    color: black;
+}
+
+.div1{
+    margin-left: 30px;
+}
+
+.div2{
+    margin-right: 30px;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+.img1{
+    height: 400px;
+    width: 400px;
+}
+
+.div12{
+    display: flex;
+    
+    margin-top: 100px;
+}
+
+.our{
+    font-size: 40px;
+}
+
+.span2{
+    color: green;
+}
+
+.para2{
+    font-size: 20px;
+    color: black;
+}
+
+.span3{
+    color: green;
+}
+
+.img2{
+    height: 500px;
+    width: 500px;
+    border: none;
+    border-bottom-left-radius: 100px;
+}
+
+.div3{
+    margin-left: 30px;
+    margin-top: 100px;
+    
+    
+}
+
+.div4{
+    margin-right: 30px;
+}
+
+.div34{
+    display: flex;
+    margin-top: 100px;
+}
+
+.footer{
+    background-color: black;
+    margin-top: 100px;
+}
+
+.footerdiv{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Logo{
+    margin-left: 30px;
+}
+
+.contact{
+    margin-right: 30px;
+}
+
+.footerbar{
+    background-color: rgb(15, 14, 14);
+    display: flex;
+    justify-content: space-between;
+}
+
+.ftext{
+    margin-left: 30px;
+    color: white;
+}
+
+.by{
+    margin-right: 30px;
+    color: white;
+}
+
+.span0{
+    color: aqua;
+}

@@ -1,0 +1,23 @@
+.scroll-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .arrow-btn {
+    border: none;
+    background: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: black; /* Set arrow color */
+    padding: 0;
+  }
+  
+  .arrow-btn:hover {
+    color: gray; /* Optional: Change color on hover */
+  }
+
+ 
