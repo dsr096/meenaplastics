@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meenaplastics/static/css/main.b53245e3.css",
+    "main.js": "/meenaplastics/static/js/main.db5efc80.js",
+    "index.html": "/meenaplastics/index.html",
+    "main.b53245e3.css.map": "/meenaplastics/static/css/main.b53245e3.css.map",
+    "main.db5efc80.js.map": "/meenaplastics/static/js/main.db5efc80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b53245e3.css",
+    "static/js/main.db5efc80.js"
+  ]
+}
